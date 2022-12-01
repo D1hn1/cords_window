@@ -1,3 +1,5 @@
 # cords_window
 
-A simple GUI to manipulate cords
+```html
+<marquee> A simple GUI to manipulate cords </marqee>
+```
